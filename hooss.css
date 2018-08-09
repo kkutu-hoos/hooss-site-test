@@ -1,0 +1,8 @@
+h1{color :purple}
+p{color : blueviolet}
+strong{
+    color : red;
+    text-decoration:underline;
+    background-color : yellow;
+    font : bold
+}
