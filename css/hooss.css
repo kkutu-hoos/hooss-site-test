@@ -6,3 +6,6 @@ strong{
     background-color : yellow;
     font : bold
 }
+body{
+    background-image: "../img/sky.png"
+}
